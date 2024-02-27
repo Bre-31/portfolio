@@ -1,2 +1,2 @@
 # portfolio
-i made a simple portfolio for my client 
+i made a simple portfolio for my client.
